@@ -284,9 +284,9 @@ h6 {
   #hero {
     width: 992px;
     height: 100vh;
-    background: url("../img/hero-bg.gif") center center no-repeat;
+    background: none;
     padding-left: 160px;
-}
+  }
 }
 
 #hero:before {
