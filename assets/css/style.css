@@ -282,9 +282,8 @@ h6 {
 
 @media (min-width: 992px) {
   #hero {
-    width: 992px;
-    height: 100vh;
-    background: none;
+   
+    /* background: rgba(255, 255, 255, 0.8); */
     padding-left: 160px;
   }
 }
@@ -338,6 +337,8 @@ h6 {
 
 @media (max-width: 992px) {
   #hero {
+   
+    background: rgba(255, 255, 255, 0.8);
     text-align: center;
   }
 
